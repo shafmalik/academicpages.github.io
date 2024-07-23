@@ -1,10 +1,9 @@
-# Academic Pages
-
+# Shaf's Data Portfolio
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
-Academic Pages is a Github Pages template for academic websites.
+ [Portfolio](https://learn.microsoft.com/en-us/windows/wsl/about)
 
-# Getting Started
+# PURPOSE
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
@@ -14,7 +13,8 @@ Academic Pages is a Github Pages template for academic websites.
 1. Check status by going to the repository settings, in the "GitHub pages" section
 1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-See more info at https://academicpages.github.io/
+This webpage and project site is maintained daily. Thanks for visiting. 
+
 
 ## Running Locally
 
