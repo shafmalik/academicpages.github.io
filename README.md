@@ -1,7 +1,7 @@
 # Shaf's Data Portfolio
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
- [Portfolio](https://learn.microsoft.com/en-us/windows/wsl/about)
+ [Portfolio](https://github.com/shafmalik/shaf.malik.github.io/settings/pages)
 
 # PURPOSE
 
